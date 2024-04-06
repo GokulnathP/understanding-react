@@ -1,4 +1,4 @@
-import ReactQuery from "./react-query";
+import ReactQuery from "./react-query-v2";
 
 const App = () => {
   return <ReactQuery/>
