@@ -1,7 +1,8 @@
-import ReactQuery from "./react-query-v2";
+import Hooks from "./hooks";
+import "./App.css";
 
 const App = () => {
-  return <ReactQuery/>
+  return <Hooks/>
 };
 
 export default App
